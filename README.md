@@ -1,7 +1,7 @@
 ROSBase
 =======
 
-Provides org.ros.internal.message.GenerateInterfaces to create Java bindings from ROS message files
+Provides org.ros.internal.message.GenerateInterfaces to create Java bindings from ROS message files as well as org.ros message implementations critical to ROS core operation
 
 Set ROS_PACKAGE_PATH shell variable to [path_to_message_files]
 
